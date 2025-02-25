@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-YWCLeeZeroSix
+YWCLee06
 <!--
 **YWCLeeZeroSix/YWCLeeZeroSix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
